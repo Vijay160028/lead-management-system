@@ -1,0 +1,24 @@
+# Node.js (React frontend)
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
+npm-debug.log*
+
+# Python (FastAPI backend)
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+db.json
+
+# macOS system file
+.DS_Store
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp

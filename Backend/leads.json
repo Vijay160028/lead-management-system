@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "phone": "9999999999",
+    "email": "alice@example.com",
+    "source": "Google Ads",
+    "status": "New Lead"
+  },
+  {
+    "id": 1752217771153,
+    "name": "qwer",
+    "phone": "987654345",
+    "email": "qwet@email.com",
+    "source": "google",
+    "status": "New Lead"
+  }
+]
