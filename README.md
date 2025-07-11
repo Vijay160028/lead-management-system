@@ -22,15 +22,12 @@ A basic lead management web application using:
 cd backend
 Create a virtual environment (optional but recommended):
 
-
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 Install required packages:
 
-
 pip install fastapi uvicorn
 Run the server:
-
 
 uvicorn main:app --reload
 Visit: http://localhost:8000/docs to test the API.
@@ -38,16 +35,11 @@ Visit: http://localhost:8000/docs to test the API.
 ## Frontend (React)
 Go to the frontend folder:
 
-
 cd frontend
-Install dependencies:
+Install dependencies: npm install
 
+Start the React app: npm start
 
-npm install
-Start the React app:
-
-
-npm start
 Visit: http://localhost:3000
 
 🧪 Login Credentials
@@ -56,4 +48,3 @@ Use this to log in:
 
 Email: admin@example.com
 Password: admin123
-(Data stored in backend/db.json)
