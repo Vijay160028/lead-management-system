@@ -20,6 +20,7 @@ A basic lead management web application using:
 1. Go to the backend folder:
 
 cd backend
+
 Create a virtual environment (optional but recommended):
 
 python -m venv venv
@@ -36,6 +37,7 @@ Visit: http://localhost:8000/docs to test the API.
 Go to the frontend folder:
 
 cd frontend
+
 Install dependencies: npm install
 
 Start the React app: npm start
